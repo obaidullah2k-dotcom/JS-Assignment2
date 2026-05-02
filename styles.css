@@ -1,0 +1,19 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(135deg, #f8f9fa, #ffffff);
+}
+
+h1 {
+  font-weight: 600;
+}
+
+.btn {
+  padding: 15px;
+  font-size: 18px;
+  border-radius: 10px;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  transform: scale(1.05);
+}
